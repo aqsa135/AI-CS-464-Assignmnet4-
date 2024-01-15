@@ -1,0 +1,41 @@
+Assignment 4 grades:
+
+Part 1: Inference:
+
+Initial KB: 5/5
+
+Forward Chaining: 5/5
+
+Backward Chaining: 5/5
+
+CNF: 5/5
+
+Resolution: 5/5
+
+Part 2: Decision Tree
+
+remainder: 5/5
+
+select_attribute: 10/10
+
+make_tree: 10/10
+
+classify: 10/10
+
+Performance measure: 10/10
+
+Housing data: 5/5
+
+Compare to sklearn: 5/5
+
+RandomForest: 5/5
+
+Part 3: Knowledge Graphs
+
+Query Builder: 5/5
+
+Mars questions: 10/10
+
+100/100
+
+
